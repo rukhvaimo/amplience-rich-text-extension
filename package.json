@@ -5,8 +5,7 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "lerna run build",
-    "custom-build": "yarn install && yarn build && cd packages/extension && yarn start"
+    "build": "lerna run build"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
