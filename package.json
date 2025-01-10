@@ -5,7 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "lerna run build"
+    "build": "lerna run build",
+    "start": "./bash/start.sh"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
