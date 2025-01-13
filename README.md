@@ -682,9 +682,3 @@ An example of configured parameters for inline styles combining each the previou
 7. Install Command - yarn install
 8. Go to the Environment Variables settings
 9. Create a new variable - CI=false
-
-- `yarn install`
-- `yarn build`
-- `cd packages/extension`
-- `yarn start`
-- Head to `http://localhost:3000` for the locally running extension
